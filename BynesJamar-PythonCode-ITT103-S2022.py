@@ -1,5 +1,5 @@
 #Author: Jamar Bynes
-#Date Created:April 8, 2022
+#Date Created:April 30, 2022
 #Course: ITT103
 #Purpose: Calculating the commission rate of different sales persons by determining salesperson, class and salesperson number.
 
