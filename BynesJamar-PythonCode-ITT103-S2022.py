@@ -36,7 +36,7 @@ while (terminator != 'END'):
  
  #//User prompt messsage and accepting user input  
  print ('Please enter your sales person number')
- sales_person_number = input ()
+ salesperson_num = input ()
  print ('Please enter your class')
  Class = int (input ())
  if Class > 3: 
@@ -82,7 +82,7 @@ while (terminator != 'END'):
 
   
  #Final ooutput 
- print("Your salesperson number is", sales_person_number) 
+ print("Your salesperson number is", salesperson_num) 
  print("And your class is", Class)
  print("Your commission rate is", commission_rate) 
  print("Your commission recieved is $", commission) 
