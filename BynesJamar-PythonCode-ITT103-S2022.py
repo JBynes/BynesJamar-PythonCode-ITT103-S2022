@@ -44,7 +44,7 @@ while (terminator != 'END'):
  if Class > 3:
    break
  print ('Please enter your sales amount')
- sales_amount = int (input ())
+ sales_amount = float (input ())
 
  
  
